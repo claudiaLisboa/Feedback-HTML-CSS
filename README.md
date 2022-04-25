@@ -12,4 +12,3 @@
 <img width="573" alt="Screen Shot 2022-04-25 at 2 22 37 PM" src="https://user-images.githubusercontent.com/21189063/165151592-bced0632-d5d4-4d8f-b243-4c0b03c80352.png">
 
 
-<img width="573" alt="Screen Shot 2022-04-25 at 2 05 16 PM" src="https://user-images.githubusercontent.com/21189063/165151607-93d75df7-16a3-4929-ba2d-4f99621294b2.png">
