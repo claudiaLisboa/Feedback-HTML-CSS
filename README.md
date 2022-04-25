@@ -1,5 +1,5 @@
-# Feedback-HTML-CSS
-For studding proposes 
+# Feedback-HTML-CSS For studding proposes 
+
 <img width="709" alt="Screen Shot 2022-04-25 at 2 22 37 PM" src="https://user-images.githubusercontent.com/21189063/165150448-cddfa67e-da57-42d1-a614-3e2ff025fa0e.png">
 
 <img width="701" alt="Screen Shot 2022-04-25 at 2 22 03 PM" src="https://user-images.githubusercontent.com/21189063/165150462-d62c0711-9820-48f0-9051-4451834aaabe.png">
